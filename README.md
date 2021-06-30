@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1Wyub-xqXgsnzTm_MuaGo8FN6kOuCTE2I/view?usp=shari
 1. Design a system that can predict and recognize the classification of facial emotions into one of the seven facial emotion categories based on feature extraction using the Convolution Neural Network algorithm with TensorFlow and Keras
 2. This approach enables to classify seven basic emotions consist of angry, disgust, fear, happy, neutral, sad and surprise from image data.
 ## Neural Network Architecture
-EfficientNetB1 + One FC Layer.\
+Our designed neural network uses EfficientNetB1 as base mode, and adding one FC layer.\
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EfficientNet%20B1.png)
 ## DataSet
 [FER2013](https://www.kaggle.com/msambare/fer2013/download)
