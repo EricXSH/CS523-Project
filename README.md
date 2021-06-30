@@ -24,4 +24,7 @@ Tensorflow 2.3
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EffNet%20T%26T%20accuracy.png)
 ## Confusion Matrix of Test Dataset
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/Confusion%20Matrix%20of%20Test%20Set.png)
-
+## Reference
+1. Tan, M. and Le, Q. V. Tan, Mingxing, and Quoc V. Le. "Efficientnet: Rethinking Model Scaling For Convolutional Neural Networks". Arxiv.Org, 2019, https://arxiv.org/abs/1905.11946. Accessed 29 June 2021.
+2. https://www.kaggle.com/msambare/fer2013/data
+3. https://www.kaggle.com/aroraumang/facial-emotion-recogination-82-accuracy
