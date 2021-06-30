@@ -20,5 +20,6 @@ Tensorflow 2.3
 4. Before compile EfficientNetB1.py, make sure your GPU is enabled for neural network training.
 5. Compile 'EfficientNetB1.py'. When the training completes, the best trained model will be saved to 'EfficientNetB1.h5' and the graph of training and validation loss with each epoch will be demonstrated.
 6. Compile 'Demo.ipynb'. The training and test accuracy of the best model and the confusion matrix of test dataset will be shown.
-
+## Training Result
+![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EffNet%20T%26T%20accuracy.png)
 
