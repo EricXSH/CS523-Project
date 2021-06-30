@@ -22,4 +22,6 @@ Tensorflow 2.3
 6. Compile 'Demo.ipynb'. The training and test accuracy of the best model and the confusion matrix of test dataset will be shown.
 ## Training Result
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EffNet%20T%26T%20accuracy.png)
+## Confusion Matrix of Test Dataset
+![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/Confusion%20Matrix%20of%20Test%20Set.png)
 
