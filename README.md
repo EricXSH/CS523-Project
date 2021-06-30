@@ -17,7 +17,7 @@ Tensorflow 2.3
 1. Download the [FER2013](https://www.kaggle.com/msambare/fer2013/download) dataset.
 2. Unzip the file and rename the folder as 'fer2013'.
 3. Download [EfficientNetB1.py](https://github.com/EricXSH/CS523-Project/blob/main/EfficientNetB1.py) and [Demo.ipynb](https://github.com/EricXSH/CS523-Project/blob/main/Demo.ipynb).
-4. Before compile EfficientNetB1.py, make sure your GPU is enabled for neural network training.
+4. Before compiling EfficientNetB1.py, make sure your GPU is enabled for neural network training.
 5. Compile 'EfficientNetB1.py'. When the training completes, the best trained model will be saved to 'EfficientNetB1.h5' and the graph of training and validation loss with each epoch will be demonstrated.
 6. Compile 'Demo.ipynb'. The training and test accuracy of the best model and the confusion matrix of test dataset will be shown.
 ## Training Result
