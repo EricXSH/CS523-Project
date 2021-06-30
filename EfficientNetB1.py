@@ -63,7 +63,7 @@ model.compile(optimizer=Adam(lr=0.0001, decay=1e-6),
 import datetime
 from tensorflow.keras.callbacks import ModelCheckpoint, CSVLogger, TensorBoard, EarlyStopping, ReduceLROnPlateau
 
-chk_path = 'EfficientNetB1_V1.h5'
+chk_path = 'EfficientNetB1.h5'
 log_dir = "checkpoint/logs/" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 
 checkpoint = ModelCheckpoint(filepath=chk_path,
