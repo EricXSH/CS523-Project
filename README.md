@@ -10,6 +10,23 @@ The neural network we designed is based on EfficientNetB1.\
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EfficientNet%20B1.png)
 ## DataSet
 [FER2013](https://www.kaggle.com/msambare/fer2013/download)
+## Prerequisites
+If use conda, use the following commands to install the above packages:
+•	conda install tensorflow
+•	conda install matplotlib
+•	conda install numpy 
+•	conda install -c anaconda scikit-learn
+•	conda install pydot
+•	conda install graphviz
+
+If use pip, use use the following commands to install the above packages:
+•	pip install tensorflow
+•	pip install matplotlib 
+•	pip install numpy 
+•	pip install sklearn
+•	pip install pydot
+•	pip install graphviz
+
 ## Runtime Environment
 Python 3.8 \
 Tensorflow 2.3
