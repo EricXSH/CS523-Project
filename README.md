@@ -1,4 +1,7 @@
 # Emotion Recognition
+## Team
+Xinyi Zhao (zxy1307@bu.edu)
+Shihao Xing (ericxing@bu.edu)
 ## Motivation
 1. To reduce the development of fatigue driving and other situations by identifying the status of the driver.
 2. To improve players’ human-computer interaction experience with emotion recognition.
