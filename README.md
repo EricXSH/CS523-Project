@@ -1,8 +1,8 @@
 # Emotion Recognition
-## DataSet \
+## DataSet
 [FER2013](https://www.kaggle.com/msambare/fer2013/download)
-## Runtime Environment \
+## Runtime Environment
 Python 3.8 \
-Tensorflow 2.3 \
+Tensorflow 2.3
 
 
