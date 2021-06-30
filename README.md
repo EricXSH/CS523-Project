@@ -46,7 +46,7 @@ Tensorflow 2.3
 ### Result of Designed Neural Network based on EfficientNetB1
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EffNet%20T%26T%20accuracy.png)
 ### Result of pure EfficientNetB1
-
+![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/Pure%20EfficientNetB1%20Result.png)
 ## Confusion Matrix of Test Dataset
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/Confusion%20Matrix%20of%20Test%20Set.png)
 ## Reference
