@@ -43,7 +43,10 @@ Tensorflow 2.3
 5. Compile 'EfficientNetB1.py'. When the training completes, the best trained model will be saved to 'EfficientNetB1.h5' and the graph of training and validation loss with each epoch will be demonstrated.
 6. Compile 'Demo.ipynb'. The training and test accuracy of the best model and the confusion matrix of test dataset will be shown.
 ## Training Result
+### Result of Designed Neural Network based on EfficientNetB1
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EffNet%20T%26T%20accuracy.png)
+### Result of pure EfficientNetB1
+
 ## Confusion Matrix of Test Dataset
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/Confusion%20Matrix%20of%20Test%20Set.png)
 ## Reference
