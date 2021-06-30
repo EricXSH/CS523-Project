@@ -34,7 +34,7 @@ If use pip, use use the following commands to install the above packages:\
 
 ## Runtime Environment
 Python 3.8 \
-Tensorflow
+Tensorflow 2.5
 ## How Compile the Code
 1. Download the [FER2013](https://www.kaggle.com/msambare/fer2013/download) dataset.
 2. Unzip the file and rename the folder as 'fer2013'.
