@@ -40,8 +40,9 @@ Tensorflow 2.3
 2. Unzip the file and rename the folder as 'fer2013'.
 3. Download [EfficientNetB1.py](https://github.com/EricXSH/CS523-Project/blob/main/EfficientNetB1.py) and [Demo.ipynb](https://github.com/EricXSH/CS523-Project/blob/main/Demo.ipynb).
 4. Before compiling EfficientNetB1.py, make sure your GPU is enabled for neural network training.
-5. Compile 'EfficientNetB1.py'. When the training completes, the best trained model will be saved to 'EfficientNetB1.h5' and the graph of training and validation loss with each epoch will be demonstrated.
-6. Compile 'Demo.ipynb'. The training and test accuracy of the best model and the confusion matrix of test dataset will be shown.
+5. Compile 'Designed NN.py'. When the training completes, the best trained model will be saved to 'EfficientNetB1.h5' and the graph of training and validation loss with each epoch will be demonstrated.
+6. Compile 'EfficientNetB1.py'. When the training completes, the best trained model will be save to 'EfficientNetB1_V1.h5'.
+7. Compile 'Demo.ipynb'. The training and test accuracy of both designed neural network and pure EfficientNetB1 and the designed neural network confusion matrix of test dataset will be shown.
 ## Training Result
 ### Loss and Accuracy Graph of Designed Neural Network
 ![Image text](https://github.com/EricXSH/CS523-Project/blob/main/img_files/EffNet%20T%26T%20accuracy.png)
